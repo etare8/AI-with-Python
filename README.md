@@ -15,4 +15,5 @@ I have taken codes that have been developed during this course and that are avai
 
 ## Credits:
 The Harvard CS50 Course is Licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC-BY-NC-SA 4.0) license.
+
 Canonical URL to te license:  https://creativecommons.org/licenses/by-nc-sa/4.0/
